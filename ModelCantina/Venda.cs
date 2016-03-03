@@ -18,6 +18,7 @@ namespace ModelCantina
             get { return produtos; }
            
         }
+        //Modificação para teste de sincronização
         public Venda()
         {
             produtos = new List<VendaProduto>();
